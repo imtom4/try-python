@@ -1,3 +1,5 @@
 # try-Python!
 learn basics of **Python** language 
-according course http://campus.codeschool.com/courses/try-python/ 
+according courses:
+- http://campus.codeschool.com/courses/try-python/ 
+- http://campus.codeschool.com/courses/try-django/
