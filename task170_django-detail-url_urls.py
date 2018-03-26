@@ -1,4 +1,5 @@
-//  http://campus.codeschool.com/courses/digging-into-django/level/1/section/2/the-detail-url
+#  http://campus.codeschool.com/courses/digging-into-django/level/1/section/2/the-detail-url
+#  ../main/urls.py
 
 from django.conf.urls import url
 from . import views
