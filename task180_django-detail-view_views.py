@@ -1,4 +1,5 @@
 #  http://campus.codeschool.com/courses/digging-into-django/level/1/section/2/the-detail-view
+#  main/views.py
 
 from django.shortcuts import render
 from .models import Location
@@ -9,4 +10,4 @@ def home(request):
 
 def detail(request, location_id):
     location = Location.objects.get(id=location_id)
-    
+    return render(request, 'detail.html', {'location':location})
