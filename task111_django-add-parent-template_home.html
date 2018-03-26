@@ -7,6 +7,7 @@ And the closing tag can go at the bottom of the file after all of the homepage-s
 -->
 
 {% extends 'base.html' %}
+      {% block content %}
 
 <div class="row">
     {% for location in locations|dictsort:'name' %}
@@ -26,4 +27,6 @@ And the closing tag can go at the bottom of the file after all of the homepage-s
     </div>
     {% endfor %}
 </div>
+
+      {% endblock %}
 
