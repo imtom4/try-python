@@ -11,3 +11,4 @@ def home(request):
 def detail(request, location_id):
     location = Location.objects.get(id=location_id)
     return render(request, 'detail.html', {'location':location})
+
