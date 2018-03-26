@@ -3,7 +3,7 @@ learn basics of **Python** language
 according courses:
 - http://campus.codeschool.com/courses/try-python/ 
 - http://campus.codeschool.com/courses/try-django/
-- [Python basics @edx](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/)
+- [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python @edx](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/)
 
 ..and vid-urses:
 - [Python-джедай #1 - Введение - YouTube](https://www.youtube.com/watch?v=ahe3WpBMdm4) {12:02}
