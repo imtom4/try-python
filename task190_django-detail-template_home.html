@@ -1,4 +1,7 @@
 <!--  http://campus.codeschool.com/courses/digging-into-django/level/1/section/2/the-detail-template
+Now that we have the detail template working, we need to add a link in home.html to each individual location's detail page. 
+We'll do this by wrapping an anchor <a href="..."> tag around the entire tracker panel 
+that links to the relative URL /{{ location.id }}/.
 -->
 
 {% load staticfiles %}
