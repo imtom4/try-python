@@ -3,6 +3,7 @@ learn basics of Python language according _courses_:
 - http://campus.codeschool.com/courses/try-python/ {done, quickly }
 - http://campus.codeschool.com/courses/try-django/ {done with mind-forcing and some tension }
 - http://campus.codeschool.com/courses/digging-into-django/ {" Congratulations! You've completed Level 1 of Digging Into Django.", level 2 is PAIDED one }
+- https://campus.datacamp.com/courses/intro-to-python-for-data-science/ {in progress.. }
 - [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python @edx](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/) 
 - [Google's Python Class  |  Python Education  |  Google Developers](https://developers.google.com/edu/python/) {videos are included }
 - [Think Python](http://greenteapress.com/thinkpython/html/index.html) {Think Python: How to Think Like a Computer Scientist @Allen B. Downey }
