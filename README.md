@@ -1,10 +1,10 @@
 # try-Python!
-learn basics of **Python** language 
-according _courses_:
+learn basics of Python language according _courses_:
 - http://campus.codeschool.com/courses/try-python/ {done, quickly }
 - http://campus.codeschool.com/courses/try-django/ {done with mind-forcing and some tension }
 - http://campus.codeschool.com/courses/digging-into-django/ {" Congratulations! You've completed Level 1 of Digging Into Django.", level 2 is PAIDED one }
 - [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python @edx](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/) 
+- 
 
 ..and _video-courses_:
 - [Python-джедай #1 - Введение - YouTube](https://www.youtube.com/watch?v=ahe3WpBMdm4) {12:02}
