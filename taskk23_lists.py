@@ -1,4 +1,4 @@
-#  
+#  https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-2-python-lists?ex=3
 
 # area variables (in square meters)
 hall = 11.25
