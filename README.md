@@ -5,8 +5,8 @@ learn basics of Python language according _courses_:
 - http://campus.codeschool.com/courses/digging-into-django/ {" Congratulations! You've completed Level 1 of Digging Into Django.", level 2 is PAIDED one }
 - https://campus.datacamp.com/courses/intro-to-python-for-data-science/ {in progress.. it seems it all is FREE }
 - [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python @edx](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/) 
-  * [Dive Into Python 3](http://www.diveintopython3.net/) available as book and\or repo https://github.com/pcsforeducation/diveintopython3)
-  * 
+  * [Dive Into Python 3](http://www.diveintopython3.net/) available as book and repo https://github.com/pcsforeducation/diveintopython3)
+  * [Think Python 2e – Green Tea Press](http://greenteapress.com/wp/think-python-2e/) - the book 'Think Python 2nd Edition by Allen B. Downey' available as PDF alongside with repo https://github.com/AllenDowney/ThinkPython2/tree/master/code 
 
 - [Google's Python Class  |  Python Education  |  Google Developers](https://developers.google.com/edu/python/) {videos are included }
 - [Think Python](http://greenteapress.com/thinkpython/html/index.html) {Think Python: How to Think Like a Computer Scientist @Allen B. Downey }
