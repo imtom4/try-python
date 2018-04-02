@@ -8,6 +8,7 @@ learn basics of Python language according _courses_:
   * [Dive Into Python 3](http://www.diveintopython3.net/) available as book and repo https://github.com/pcsforeducation/diveintopython3)
   * [Think Python 2e – Green Tea Press](http://greenteapress.com/wp/think-python-2e/) - the book 'Think Python 2nd Edition by Allen B. Downey' available as PDF alongside with repo https://github.com/AllenDowney/ThinkPython2/tree/master/code 
   * [CheckiO - coding games and programming challenges for beginner and advanced](https://checkio.org/) for JavaScript and Python, also in-Russian 
+  * [Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution](http://www.pythontutor.com/)
 
 - [Google's Python Class  |  Python Education  |  Google Developers](https://developers.google.com/edu/python/) {videos are included }
 - [Think Python](http://greenteapress.com/thinkpython/html/index.html) {Think Python: How to Think Like a Computer Scientist @Allen B. Downey }
