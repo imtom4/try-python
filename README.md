@@ -17,10 +17,12 @@ learn basics of Python language according _courses_:
 ..anD _video-courses_:
 - [Python-джедай #1 - Введение - YouTube](https://www.youtube.com/watch?v=ahe3WpBMdm4) {12:02}
 
-...aNd _code-repositories_:
+...aNd _code-repositories\frameworks_:
 - https://github.com/LeandroTk/learning-python {Basics, Object Oriented Programming, Modules & Tricks }
 - https://github.com/vinta/awesome-python {A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com/} 
 - https://github.com/mattmakai/fullstackpython.com {Full Stack Python source with Pelican, Bootstrap and Markdown. https://www.fullstackpython.com/ }
+- [Flask @pallets](https://github.com/pallets/flask) - 
+a lightweight WSGI web application framework
 
 ....aND _longread-articles_:
 * [Learning Python: From Zero to Hero – freeCodeCamp](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567) {code examples & discussions }
