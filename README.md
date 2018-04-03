@@ -14,6 +14,8 @@ learn basics of Python language according
 
 - [Google's Python Class  |  Python Education  |  Google Developers](https://developers.google.com/edu/python/) videos are included 
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) free sample of `Learn Python 2 The Hard Way with 8 exercises and 'Appendix A \Command Line Crash Course\'` available 
+- [Introduction to programming with Python](https://opentechschool.github.io/python-beginners/)      English Deutsch (German) Español (Spanish) русский (Russian) 한국인 (Korean) Română (Romanian) 
+
 - [Python-джедай #1 - Введение - YouTube](https://www.youtube.com/watch?v=ahe3WpBMdm4) {12:02 }
 
 
