@@ -9,8 +9,8 @@ learn basics of Python language according
 - [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python @edx](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/) Great One {in progress of learning.. }
   * [Dive Into Python 3](http://www.diveintopython3.net/) available as book and repo https://github.com/pcsforeducation/diveintopython3 
   * [Think Python 2e – Green Tea Press](http://greenteapress.com/wp/think-python-2e/) - the book `'Think Python 2nd Edition by Allen B. Downey'` available as PDF alongside with repo https://github.com/AllenDowney/ThinkPython2/tree/master/code 
-  * [CheckiO - coding games and programming challenges for beginner and advanced](https://checkio.org/) for **JavaScript** and Python, also in-Russian 
-  * [Python Tutor - Visualize Python, __Java, C, C++, JavaScript, TypeScript, and Ruby__ code execution](http://www.pythontutor.com/) with repo https://github.com/pgbovine/OnlinePythonTutor 
+  * [CheckiO - coding games and programming challenges for beginner and advanced](https://checkio.org/) for JavaScript and Python, also in-Russian 
+  * [Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution](http://www.pythontutor.com/) with repo https://github.com/pgbovine/OnlinePythonTutor 
 
 - [Google's Python Class  |  Python Education  |  Google Developers](https://developers.google.com/edu/python/) videos are included 
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) free sample of `Learn Python 2 The Hard Way with 8 exercises and 'Appendix A \Command Line Crash Course\'` available 
@@ -30,6 +30,7 @@ learn basics of Python language according
 ... _longread-articles_:
 * [Learning Python: From Zero to Hero – freeCodeCamp](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567) classes, code examples & discussions 
 * [Python Practice Book — Python Practice Book](https://anandology.com/python-practice-book/index.html) prepared from the training notes of Anand Chitipothu 
+* [Nick Coghlan’s Python Notes](http://python-notes.curiousefficiency.org/en/latest/) Python 3, Python Concepts, Various Ideas for Python and CPython, Using the Python Kerberos Module, General Linux Notes, Python Conferences 
 
 
 .... _tutorials,hubs_:
