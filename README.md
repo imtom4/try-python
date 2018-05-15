@@ -27,6 +27,7 @@ learn basics of Python language according
 - https://github.com/mattmakai/fullstackpython.com ***Full Stack Python*** source with Pelican, Bootstrap and Markdown  https://www.fullstackpython.com/ 
 - https://github.com/pallets/flask lightweight WSGI web application framework based on _Werkzeug_ and _Jinja2_ 
 - https://www.palletsprojects.com/ The ***Pallets Projects*** are a collection of Python web development libraries that were independently developed by Armin Ronacher and later used as the basis of the Flask microframework 
+- https://docs.pytest.org/en/latest/ ***pytest***: helps you write better programs — pytest documentation - Python for **QA** 
 
 
 ## longread-articles :
@@ -40,7 +41,7 @@ learn basics of Python language according
 - [Full Stack Python](https://www.fullstackpython.com/) {not only Python, but programming-wide overview 
 
 
-### as reference :
+# as reference :
 - https://docs.python.org/2/ 
 - https://docs.djangoproject.com/en/1.9/ref/ 
 
