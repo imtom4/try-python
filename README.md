@@ -2,9 +2,11 @@
 learn basics of Python language according 
 
 ## courses :
-- { http://campus.codeschool.com/courses/try-python/ {done by me, quickly } UPD https://www.pluralsight.com/codeschool ...}
-- { http://campus.codeschool.com/courses/try-django/ {done by me with mind-forcing and some tension } UPD https://www.pluralsight.com/codeschool ...}
+- {{ http://campus.codeschool.com/courses/try-python/ {done by me, quickly } 
+- http://campus.codeschool.com/courses/try-django/ {done by me with mind-forcing and some tension } 
 - http://campus.codeschool.com/courses/digging-into-django/ {"Congratulations! You've completed Level 1 of Digging Into Django", level 2 is PAIDED one.. }
+UPD: are now part of https://www.pluralsight.com/codeschool
+ }}
 - https://campus.datacamp.com/courses/intro-to-python-for-data-science/ {in progress of learning..... it seems it whole will be FREE }
 - [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python @edx](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/) Great One {in progress of learning.. }
   * [Dive Into Python 3](http://www.diveintopython3.net/) available as book and repo https://github.com/pcsforeducation/diveintopython3 
